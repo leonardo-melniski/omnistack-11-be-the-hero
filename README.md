@@ -1,4 +1,4 @@
-# Semana Omnistack 11ª edição
+# Semana Omnistack 11ª edição - Be The Hero
 
 Projeto desenvolvido seguindo as aulas da semana omnistack-11 da rocketseat.
 
@@ -12,3 +12,11 @@ frameworks:
 * express
 * SQLite
 * knex
+
+## Frontend
+
+frameworks:
+
+* reactjs
+* react hooks
+* axios
