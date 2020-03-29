@@ -7,16 +7,18 @@ Usando a stack de javascript para desenvolver backend, web e mobile, com nodejs,
 
 ## Backend
 
-frameworks:
-
 * express
 * SQLite
 * knex
 
 ## Frontend
 
-frameworks:
-
 * reactjs
 * react hooks
 * axios
+
+## Mobile
+
+* react native
+* expo
+* react hooks
